@@ -4112,11 +4112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\ServicioBack.csproj",
+      "projectUniqueName": "C:\\Users\\lenov\\OneDrive\\Desktop\\Nueva carpeta\\Actividad_4\\ServicioBack\\ServicioBack.csproj",
       "projectName": "ServicioBack",
-      "projectPath": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\ServicioBack.csproj",
+      "projectPath": "C:\\Users\\lenov\\OneDrive\\Desktop\\Nueva carpeta\\Actividad_4\\ServicioBack\\ServicioBack.csproj",
       "packagesPath": "C:\\Users\\lenov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\obj\\",
+      "outputPath": "C:\\Users\\lenov\\OneDrive\\Desktop\\Nueva carpeta\\Actividad_4\\ServicioBack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenov\\AppData\\Roaming\\NuGet\\NuGet.Config",

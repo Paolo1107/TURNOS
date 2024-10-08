@@ -1,32 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ApiServicios\\",
+  "WorkspaceRootPath": "C:\\Users\\lenov\\OneDrive\\Desktop\\Nueva carpeta\\Actividad_4\\ApiServicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E530D23-3FE7-4CF9-9E2D-366FF4E49EB5}|..\\ServicioBack\\ServicioBack.csproj|c:\\users\\lenov\\onedrive\\desktop\\actividad_4\\servicioback\\repositories\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E530D23-3FE7-4CF9-9E2D-366FF4E49EB5}|..\\ServicioBack\\ServicioBack.csproj|c:\\users\\lenov\\onedrive\\desktop\\nueva carpeta\\actividad_4\\servicioback\\entities\\models\\tdetallesturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E530D23-3FE7-4CF9-9E2D-366FF4E49EB5}|..\\ServicioBack\\ServicioBack.csproj|c:\\users\\lenov\\onedrive\\desktop\\actividad_4\\servicioback\\entities\\models\\turnosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41B36F4C-776C-45A4-841F-2620B19773B1}|ApiServicios.csproj|c:\\users\\lenov\\onedrive\\desktop\\nueva carpeta\\actividad_4\\apiservicios\\controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B36F4C-776C-45A4-841F-2620B19773B1}|ApiServicios.csproj|solutionrelative:controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E530D23-3FE7-4CF9-9E2D-366FF4E49EB5}|..\\ServicioBack\\ServicioBack.csproj|c:\\users\\lenov\\onedrive\\desktop\\actividad_4\\servicioback\\repositories\\iserviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41B36F4C-776C-45A4-841F-2620B19773B1}|ApiServicios.csproj|c:\\users\\lenov\\onedrive\\desktop\\actividad_4\\apiservicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41B36F4C-776C-45A4-841F-2620B19773B1}|ApiServicios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E530D23-3FE7-4CF9-9E2D-366FF4E49EB5}|..\\ServicioBack\\ServicioBack.csproj|c:\\users\\lenov\\onedrive\\desktop\\actividad_4\\servicioback\\services\\iservicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E530D23-3FE7-4CF9-9E2D-366FF4E49EB5}|..\\ServicioBack\\ServicioBack.csproj|c:\\users\\lenov\\onedrive\\desktop\\actividad_4\\servicioback\\services\\servicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41B36F4C-776C-45A4-841F-2620B19773B1}|ApiServicios.csproj|c:\\users\\lenov\\onedrive\\desktop\\actividad_4\\apiservicios\\controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41B36F4C-776C-45A4-841F-2620B19773B1}|ApiServicios.csproj|c:\\users\\lenov\\onedrive\\desktop\\nueva carpeta\\actividad_4\\apiservicios\\controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41B36F4C-776C-45A4-841F-2620B19773B1}|ApiServicios.csproj|solutionrelative:controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E530D23-3FE7-4CF9-9E2D-366FF4E49EB5}|..\\ServicioBack\\ServicioBack.csproj|c:\\users\\lenov\\onedrive\\desktop\\actividad_4\\servicioback\\entities\\models\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41B36F4C-776C-45A4-841F-2620B19773B1}|ApiServicios.csproj|c:\\users\\lenov\\onedrive\\desktop\\nueva carpeta\\actividad_4\\apiservicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41B36F4C-776C-45A4-841F-2620B19773B1}|ApiServicios.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B36F4C-776C-45A4-841F-2620B19773B1}|ApiServicios.csproj|c:\\users\\lenov\\onedrive\\desktop\\nueva carpeta\\actividad_4\\apiservicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B36F4C-776C-45A4-841F-2620B19773B1}|ApiServicios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Migrations\\20241002050349_ChangeFechaColumnToDateTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Entities\\Models\\TTurno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Services\\Turnos\\TurnoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Services\\Turnos\\ITurnoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Repositories\\Turnos\\TurnoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Repositories\\Servicios\\ServicioRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Repositories\\Turnos\\ITurnoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Repositories\\Servicios\\IServicioRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Services\\Servicios\\IServicioService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Entities\\Models\\TServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Services\\Servicios\\ServicioService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Entities\\Models\\TurnosDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,8 +65,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicioController.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Nueva carpeta\\Actividad_4\\ApiServicios\\Controllers\\ServicioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServicioController.cs",
+              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Nueva carpeta\\Actividad_4\\ApiServicios\\Controllers\\ServicioController.cs",
+              "RelativeToolTip": "Controllers\\ServicioController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAowFIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:01:29.104Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TurnoController.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Nueva carpeta\\Actividad_4\\ApiServicios\\Controllers\\TurnoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TurnoController.cs",
+              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Nueva carpeta\\Actividad_4\\ApiServicios\\Controllers\\TurnoController.cs",
+              "RelativeToolTip": "Controllers\\TurnoController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEkAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:50:30.542Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -49,104 +105,183 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ServicioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Repositories\\ServicioRepository.cs",
-              "RelativeDocumentMoniker": "..\\ServicioBack\\Repositories\\ServicioRepository.cs",
-              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Repositories\\ServicioRepository.cs",
-              "RelativeToolTip": "..\\ServicioBack\\Repositories\\ServicioRepository.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAkwDsAAAArAAAA",
+              "Title": "TDetallesTurno.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Nueva carpeta\\Actividad_4\\ServicioBack\\Entities\\Models\\TDetallesTurno.cs",
+              "RelativeDocumentMoniker": "..\\ServicioBack\\Entities\\Models\\TDetallesTurno.cs",
+              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Nueva carpeta\\Actividad_4\\ServicioBack\\Entities\\Models\\TDetallesTurno.cs",
+              "RelativeToolTip": "..\\ServicioBack\\Entities\\Models\\TDetallesTurno.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T12:36:16.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IServicioService.cs",
-              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Services\\IServicioService.cs",
-              "RelativeDocumentMoniker": "..\\ServicioBack\\Services\\IServicioService.cs",
-              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Services\\IServicioService.cs",
-              "RelativeToolTip": "..\\ServicioBack\\Services\\IServicioService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T12:43:04.431Z",
+              "WhenOpened": "2024-10-08T19:27:30.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ServicioService.cs",
-              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Services\\ServicioService.cs",
-              "RelativeDocumentMoniker": "..\\ServicioBack\\Services\\ServicioService.cs",
-              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Services\\ServicioService.cs",
-              "RelativeToolTip": "..\\ServicioBack\\Services\\ServicioService.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAQwCsAAAAAAAAA",
+              "Title": "20241002050349_ChangeFechaColumnToDateTime.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Migrations\\20241002050349_ChangeFechaColumnToDateTime.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Actividad_4\\ServicioBack\\Migrations\\20241002050349_ChangeFechaColumnToDateTime.cs",
+              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Migrations\\20241002050349_ChangeFechaColumnToDateTime.cs",
+              "RelativeToolTip": "..\\..\\..\\Actividad_4\\ServicioBack\\Migrations\\20241002050349_ChangeFechaColumnToDateTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T12:43:41.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IServicioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Repositories\\IServicioRepository.cs",
-              "RelativeDocumentMoniker": "..\\ServicioBack\\Repositories\\IServicioRepository.cs",
-              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Repositories\\IServicioRepository.cs",
-              "RelativeToolTip": "..\\ServicioBack\\Repositories\\IServicioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T12:35:39.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ApiServicios\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ApiServicios\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T12:48:41.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TurnosDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Entities\\Models\\TurnosDbContext.cs",
-              "RelativeDocumentMoniker": "..\\ServicioBack\\Entities\\Models\\TurnosDbContext.cs",
-              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Entities\\Models\\TurnosDbContext.cs",
-              "RelativeToolTip": "..\\ServicioBack\\Entities\\Models\\TurnosDbContext.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T12:29:00.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T05:03:49.684Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ServicioController.cs",
-              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ApiServicios\\Controllers\\ServicioController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ServicioController.cs",
-              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ApiServicios\\Controllers\\ServicioController.cs",
-              "RelativeToolTip": "Controllers\\ServicioController.cs",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAkwHYAAAAAAAAA",
+              "Title": "TTurno.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Entities\\Models\\TTurno.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Actividad_4\\ServicioBack\\Entities\\Models\\TTurno.cs",
+              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Entities\\Models\\TTurno.cs",
+              "RelativeToolTip": "..\\..\\..\\Actividad_4\\ServicioBack\\Entities\\Models\\TTurno.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwAwAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T14:01:29.104Z"
+              "WhenOpened": "2024-10-02T03:37:06.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Nueva carpeta\\Actividad_4\\ApiServicios\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Nueva carpeta\\Actividad_4\\ApiServicios\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T23:55:45.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Nueva carpeta\\Actividad_4\\ApiServicios\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Nueva carpeta\\Actividad_4\\ApiServicios\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:43:12.06Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "TurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Services\\Turnos\\TurnoService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Actividad_4\\ServicioBack\\Services\\Turnos\\TurnoService.cs",
+              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Services\\Turnos\\TurnoService.cs",
+              "RelativeToolTip": "..\\..\\..\\Actividad_4\\ServicioBack\\Services\\Turnos\\TurnoService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:19:37.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Services\\Turnos\\ITurnoService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Actividad_4\\ServicioBack\\Services\\Turnos\\ITurnoService.cs",
+              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Services\\Turnos\\ITurnoService.cs",
+              "RelativeToolTip": "..\\..\\..\\Actividad_4\\ServicioBack\\Services\\Turnos\\ITurnoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:19:23.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Repositories\\Turnos\\TurnoRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Actividad_4\\ServicioBack\\Repositories\\Turnos\\TurnoRepository.cs",
+              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Repositories\\Turnos\\TurnoRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\Actividad_4\\ServicioBack\\Repositories\\Turnos\\TurnoRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:56:36.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServicioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Repositories\\Servicios\\ServicioRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Actividad_4\\ServicioBack\\Repositories\\Servicios\\ServicioRepository.cs",
+              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Repositories\\Servicios\\ServicioRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\Actividad_4\\ServicioBack\\Repositories\\Servicios\\ServicioRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA1wFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:36:16.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Repositories\\Turnos\\ITurnoRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Actividad_4\\ServicioBack\\Repositories\\Turnos\\ITurnoRepository.cs",
+              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Repositories\\Turnos\\ITurnoRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\Actividad_4\\ServicioBack\\Repositories\\Turnos\\ITurnoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:52:22.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IServicioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Repositories\\Servicios\\IServicioRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Actividad_4\\ServicioBack\\Repositories\\Servicios\\IServicioRepository.cs",
+              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Repositories\\Servicios\\IServicioRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\Actividad_4\\ServicioBack\\Repositories\\Servicios\\IServicioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:35:39.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IServicioService.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Services\\Servicios\\IServicioService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Actividad_4\\ServicioBack\\Services\\Servicios\\IServicioService.cs",
+              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Services\\Servicios\\IServicioService.cs",
+              "RelativeToolTip": "..\\..\\..\\Actividad_4\\ServicioBack\\Services\\Servicios\\IServicioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:43:04.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "TServicio.cs",
               "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Entities\\Models\\TServicio.cs",
-              "RelativeDocumentMoniker": "..\\ServicioBack\\Entities\\Models\\TServicio.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Actividad_4\\ServicioBack\\Entities\\Models\\TServicio.cs",
               "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Entities\\Models\\TServicio.cs",
-              "RelativeToolTip": "..\\ServicioBack\\Entities\\Models\\TServicio.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBQAAAAkAAAA",
+              "RelativeToolTip": "..\\..\\..\\Actividad_4\\ServicioBack\\Entities\\Models\\TServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T13:03:08.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServicioService.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Services\\Servicios\\ServicioService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Actividad_4\\ServicioBack\\Services\\Servicios\\ServicioService.cs",
+              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Services\\Servicios\\ServicioService.cs",
+              "RelativeToolTip": "..\\..\\..\\Actividad_4\\ServicioBack\\Services\\Servicios\\ServicioService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:43:41.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TurnosDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Entities\\Models\\TurnosDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Actividad_4\\ServicioBack\\Entities\\Models\\TurnosDbContext.cs",
+              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\Entities\\Models\\TurnosDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\Actividad_4\\ServicioBack\\Entities\\Models\\TurnosDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:29:00.744Z"
             }
           ]
         }

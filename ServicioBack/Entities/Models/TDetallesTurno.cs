@@ -2,6 +2,7 @@
 #nullable disable
 using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
 namespace ServicioBack.Entities.Models;
 
@@ -12,8 +13,8 @@ public partial class TDetallesTurno
     public int IdServicio { get; set; }
 
     public string Observaciones { get; set; }
-
+    [JsonIgnore]
     public virtual TServicio IdServicioNavigation { get; set; }
-
+    [JsonIgnore]
     public virtual TTurno IdTurnoNavigation { get; set; }
 }

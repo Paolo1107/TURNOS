@@ -24,3 +24,7 @@
 --SELECT * FROM T_SERVICIOS
 --INSERT INTO T_SERVICIOS(id, nombre, costo, enPromocion, Estado)
 --VALUES(1, 'Lavado Completo', 20000, 'S', 0)
+
+SELECT * from T_TURNOS
+SELECT * from T_DETALLES_TURNO
+SELECT *from T_SERVICIOS

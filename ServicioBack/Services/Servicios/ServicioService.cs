@@ -1,12 +1,12 @@
 ﻿using ServicioBack.Entities.Models;
-using ServicioBack.Repositories;
+using ServicioBack.Repositories.Servicio;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ServicioBack.Services
+namespace ServicioBack.Services.Servicios
 {
     public class ServicioService : IServicioService
     {

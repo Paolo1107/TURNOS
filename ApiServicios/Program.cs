@@ -1,7 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using ServicioBack.Entities.Models;
-using ServicioBack.Repositories;
-using ServicioBack.Services;
+using ServicioBack.Repositories.Servicio;
+using ServicioBack.Repositories.Turnos;
+using ServicioBack.Services.Servicios;
+using ServicioBack.Services.Turnos;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +16,8 @@ options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectio
 builder.Services.AddScoped<IServicioRepository, ServicioRepository>();
 builder.Services.AddScoped<IServicioService, ServicioService>();
 
+builder.Services.AddScoped<ITurnoRepository, TurnoRepository>();
+builder.Services.AddScoped<ITurnoService, TurnoService>();
 
 
 

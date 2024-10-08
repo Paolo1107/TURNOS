@@ -4508,11 +4508,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ApiServicios\\ApiServicios.csproj",
+      "projectUniqueName": "C:\\Users\\lenov\\OneDrive\\Desktop\\Nueva carpeta\\Actividad_4\\ApiServicios\\ApiServicios.csproj",
       "projectName": "ApiServicios",
-      "projectPath": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ApiServicios\\ApiServicios.csproj",
+      "projectPath": "C:\\Users\\lenov\\OneDrive\\Desktop\\Nueva carpeta\\Actividad_4\\ApiServicios\\ApiServicios.csproj",
       "packagesPath": "C:\\Users\\lenov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ApiServicios\\obj\\",
+      "outputPath": "C:\\Users\\lenov\\OneDrive\\Desktop\\Nueva carpeta\\Actividad_4\\ApiServicios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4530,8 +4530,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\ServicioBack.csproj": {
-              "projectPath": "C:\\Users\\lenov\\OneDrive\\Desktop\\Actividad_4\\ServicioBack\\ServicioBack.csproj"
+            "C:\\Users\\lenov\\OneDrive\\Desktop\\Nueva carpeta\\Actividad_4\\ServicioBack\\ServicioBack.csproj": {
+              "projectPath": "C:\\Users\\lenov\\OneDrive\\Desktop\\Nueva carpeta\\Actividad_4\\ServicioBack\\ServicioBack.csproj"
             }
           }
         }

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ServicioBack.Repositories
+namespace ServicioBack.Repositories.Servicio
 {
     public class ServicioRepository : IServicioRepository
     {
@@ -17,6 +17,7 @@ namespace ServicioBack.Repositories
         }
         public async Task<List<TServicio>> ConsultsFiltersAsync(string promo, string nombre)
         {
+            /*IQueryable<TServicio> == var query*/
             var query = _context.TServicios.AsQueryable();
 
             if (!string.IsNullOrWhiteSpace(nombre))

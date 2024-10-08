@@ -2,6 +2,7 @@
 #nullable disable
 using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
 namespace ServicioBack.Entities.Models;
 
@@ -9,11 +10,12 @@ public partial class TTurno
 {
     public int Id { get; set; }
 
-    public string Fecha { get; set; }
+    public DateTime? Fecha { get; set; }
 
     public string Hora { get; set; }
 
     public string Cliente { get; set; }
 
+    
     public virtual ICollection<TDetallesTurno> TDetallesTurnos { get; set; } = new List<TDetallesTurno>();
 }
